@@ -1,7 +1,7 @@
 # Stages of service design posters
 Sketch posters to visualise each stage of designing an agile service.
 
-These design are free to use and edit, the only request is you maintain the open source [licence](http://unlicense.org/UNLICENSE).
+All content is available under the [Open Government Licence v3.0](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/), except where otherwise stated.
 
 ![Discovery](https://raw.githubusercontent.com/eliothill/service-design-posters/master/Discovery.jpg)
 ![Alpha](https://raw.githubusercontent.com/eliothill/service-design-posters/master/Alpha.jpg)
